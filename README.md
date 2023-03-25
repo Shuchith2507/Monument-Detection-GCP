@@ -14,15 +14,18 @@ Monument Detection and Providing Information in Different Languages using GCP
 
   To translate the description we obtained to any language chosen.
 
-Enable these 3 API in your GCP account
+
+Enable these 3 API in your GCP account.
 
 ## Steps to Run
-• Create Service Account in GCP
+• Create Service Account in GCP.
 
-• After creating click on 3 dots right side of service account, Click manage keys
+• After creating click on 3 dots right side of service account, Click manage keys.
 
 • Click on Add Key and select new key.
 
-• Download json format and save it in the same directory of your program(gcp.json)
+• Download json format and save it in the same directory of your program(gcp.json).
+
+• Replace Imagepath with the path where your image exists.
 
 • Run code.py
